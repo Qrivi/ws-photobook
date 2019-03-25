@@ -1,0 +1,17 @@
+{
+    "name": "be.krivi/ws-photobook",
+    "description": "Photobook for WhatSlack",
+    "version": "0.1.0",
+    "homepage": "https://github.com/Qrivi/ws-photobook",
+    "authors": [
+        {
+            "name": "Kristof Dewilde",
+            "email": "git@krivi.be"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.3.3"
+        }
+    }
+}
